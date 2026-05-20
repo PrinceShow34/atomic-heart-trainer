@@ -1,0 +1,4 @@
+# Atomic Heart Trainer dependencies
+# No external packages required beyond Python standard library
+# ctypes and struct are built-in modules used for memory manipulation
+# All functionality uses Windows API via ctypes
